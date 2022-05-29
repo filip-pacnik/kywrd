@@ -1,2 +1,2 @@
 # 'kywrd-master.repo'
-'kywrd.repo' >> Arduino ( architectures : * ) hotkey library
+'kywrd-master.repo' >> Arduino ( architectures : * ) hotkey library
